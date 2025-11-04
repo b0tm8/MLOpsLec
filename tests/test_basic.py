@@ -1,6 +1,6 @@
 def test_simple_math():
     """A simple test that always passes"""
-    assert 1 + 2 == 2
+    assert 1 + 2 == 3
 
 
 def test_string_operations():
