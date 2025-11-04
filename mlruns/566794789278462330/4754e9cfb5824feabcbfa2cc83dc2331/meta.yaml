@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/4754e9cfb5824feabcbfa2cc83dc2331/artifacts
+end_time: 1761691237623
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 4754e9cfb5824feabcbfa2cc83dc2331
+run_name: worried-flea-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691235708
+status: 3
+tags: []
+user_id: matthis

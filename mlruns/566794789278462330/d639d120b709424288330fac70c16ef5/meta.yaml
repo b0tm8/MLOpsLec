@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/d639d120b709424288330fac70c16ef5/artifacts
+end_time: 1762266569234
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: d639d120b709424288330fac70c16ef5
+run_name: honorable-gnat-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266563931
+status: 3
+tags: []
+user_id: matthis

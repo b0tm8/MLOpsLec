@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/29b9cd6b612e4f38a6d5a859acd2c014/artifacts
+end_time: 1761691262373
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 29b9cd6b612e4f38a6d5a859acd2c014
+run_name: loud-grub-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691260548
+status: 3
+tags: []
+user_id: matthis

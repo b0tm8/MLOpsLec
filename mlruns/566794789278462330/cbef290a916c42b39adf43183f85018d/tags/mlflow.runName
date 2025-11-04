@@ -1,0 +1,1 @@
+decision_tree{'max_depth': 3, 'criterion': 'gini', 'min_samples_split': 5, 'min_samples_leaf': 1}

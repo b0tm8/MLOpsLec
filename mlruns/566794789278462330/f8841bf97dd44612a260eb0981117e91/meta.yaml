@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/f8841bf97dd44612a260eb0981117e91/artifacts
+end_time: 1762266383640
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: f8841bf97dd44612a260eb0981117e91
+run_name: clean-donkey-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266382229
+status: 4
+tags: []
+user_id: matthis

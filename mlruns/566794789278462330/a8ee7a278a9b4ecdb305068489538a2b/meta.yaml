@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/a8ee7a278a9b4ecdb305068489538a2b/artifacts
+end_time: 1761691250240
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: a8ee7a278a9b4ecdb305068489538a2b
+run_name: orderly-lynx-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691247909
+status: 3
+tags: []
+user_id: matthis

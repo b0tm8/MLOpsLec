@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/24a0027a76a04a95ae8ea48ed4c92e6c/artifacts
+end_time: 1762269383687
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 24a0027a76a04a95ae8ea48ed4c92e6c
+run_name: 'logistic_regression{''C'': 0.1}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762269381175
+status: 3
+tags: []
+user_id: matthis

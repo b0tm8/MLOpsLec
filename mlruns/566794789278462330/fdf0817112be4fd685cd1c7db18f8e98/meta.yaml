@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/fdf0817112be4fd685cd1c7db18f8e98/artifacts
+end_time: 1762266559185
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: fdf0817112be4fd685cd1c7db18f8e98
+run_name: casual-shad-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266557012
+status: 3
+tags: []
+user_id: matthis

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/a9471772a55d44a09ac40e8bcfd8f9a4/artifacts
+end_time: 1762266166663
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: a9471772a55d44a09ac40e8bcfd8f9a4
+run_name: dapper-kit-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266164560
+status: 4
+tags: []
+user_id: matthis

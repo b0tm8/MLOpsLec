@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/25dfe8db46c7405db2c6b83909b044ce/artifacts
+end_time: 1761691520042
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 25dfe8db46c7405db2c6b83909b044ce
+run_name: clumsy-cod-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691518557
+status: 4
+tags: []
+user_id: matthis

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/789a0114b6a44ed2a768ca5fa3ffe347/artifacts
+end_time: 1762266594392
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 789a0114b6a44ed2a768ca5fa3ffe347
+run_name: brawny-lark-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266590085
+status: 3
+tags: []
+user_id: matthis

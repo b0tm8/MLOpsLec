@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/b6a8d7acd0d64630b8021563bf5ace7b/artifacts
+end_time: 1761691256386
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: b6a8d7acd0d64630b8021563bf5ace7b
+run_name: enthused-fowl-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691254390
+status: 3
+tags: []
+user_id: matthis

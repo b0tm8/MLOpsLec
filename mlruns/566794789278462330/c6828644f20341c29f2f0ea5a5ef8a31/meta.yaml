@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/c6828644f20341c29f2f0ea5a5ef8a31/artifacts
+end_time: 1761690121975
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: c6828644f20341c29f2f0ea5a5ef8a31
+run_name: righteous-pig-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761690119641
+status: 3
+tags: []
+user_id: matthis

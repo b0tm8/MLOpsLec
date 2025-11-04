@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/9b0b34e97f744d3d9963dc108c40c9f4/artifacts
+end_time: 1762266540167
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 9b0b34e97f744d3d9963dc108c40c9f4
+run_name: delicate-dove-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266537182
+status: 3
+tags: []
+user_id: matthis

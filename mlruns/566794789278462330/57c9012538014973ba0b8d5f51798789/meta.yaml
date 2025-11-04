@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/57c9012538014973ba0b8d5f51798789/artifacts
+end_time: 1761691243757
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 57c9012538014973ba0b8d5f51798789
+run_name: valuable-flea-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761691241759
+status: 3
+tags: []
+user_id: matthis

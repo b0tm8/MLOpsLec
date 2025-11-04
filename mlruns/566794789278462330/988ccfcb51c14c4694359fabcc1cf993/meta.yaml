@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/988ccfcb51c14c4694359fabcc1cf993/artifacts
+end_time: 1762266399722
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 988ccfcb51c14c4694359fabcc1cf993
+run_name: thoughtful-pig-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266396772
+status: 3
+tags: []
+user_id: matthis

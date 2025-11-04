@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/7307dccd682a4806b59aa73e1899a760/artifacts
+end_time: 1762270181682
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 7307dccd682a4806b59aa73e1899a760
+run_name: 'decision_tree{''max_depth'': 10, ''criterion'': ''log_loss'', ''min_samples_split'':
+  30, ''min_samples_leaf'': 2}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762270179251
+status: 3
+tags: []
+user_id: matthis

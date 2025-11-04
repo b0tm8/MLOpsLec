@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matthis/Documents/Studium/5%20MLO/notebooks/mlruns/566794789278462330/75749547467748c6b81c56405a461a07/artifacts
+end_time: 1762266552746
+entry_point_name: ''
+experiment_id: '566794789278462330'
+lifecycle_stage: active
+run_id: 75749547467748c6b81c56405a461a07
+run_name: merciful-conch-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266550815
+status: 3
+tags: []
+user_id: matthis
